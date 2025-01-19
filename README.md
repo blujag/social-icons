@@ -1,2 +1,3 @@
 # social-icons
-Social media icons. 
+Social media icons (png). 
+
